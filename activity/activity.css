@@ -126,7 +126,11 @@ padding:10px 0;
  .color-div {
   background: #74B64A;
 }
-
+.a{
+position:absolute;
+left:50px;
+top:300px;
+}
 
 .button .color-sum:hover, .color-res:hover, .color-mult:hover, .color-div:hover {
   -webkit-transform: scale(1.3);
@@ -134,7 +138,15 @@ padding:10px 0;
   transform: scale(1.3);
   cursor: pointer;
 }
+ul{
+list-style-type:none;
+padding:0;
+margin:0;
+}
 
+li{
+float:left;
+}
 h4{
 display:block;
 text-align:center;
