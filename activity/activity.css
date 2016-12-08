@@ -96,15 +96,12 @@ padding:10px 0;
   display: inline-block;
   width: 20%;
 }
-
-.button button {
+.button button{
   padding:15px 50px;
   font-size:16px;
   color:#ffffff;
   border:none;
-  
 }
-
 .button a {
   color: #fff;
   font-size: 18px;
@@ -113,7 +110,7 @@ padding:10px 0;
 
  .color-sum {
   background: #EC297B;
-}
+ }
 
  .color-res {
   background: #00B0D8;
